@@ -4,13 +4,6 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Assignment 1 _ IEOR 242"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
     "## (a)  Load the Data:\n",
     "First, start by loading the data and the package we need."
    ]
